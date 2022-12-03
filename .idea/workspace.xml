@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7f76e90-3993-4d3b-9812-b0a52be78bf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task6.java" afterDir="false" />
+    <list default="true" id="a7f76e90-3993-4d3b-9812-b0a52be78bf9" name="Changes" comment="Decided 01/12/2022">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/decide/Task17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task14">
+  <component name="RunManager" selected="Application.Task17">
     <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.decide.Task14" />
       <module name="task-example" />
@@ -69,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.decide.Task2" />
+    <configuration name="Task17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.decide.Task17" />
       <module name="task-example" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task17" />
         <item itemvalue="Application.Task14" />
         <item itemvalue="Application.Task29" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669804698396</updated>
     </task>
+    <task id="LOCAL-00001" summary="Decided 01/12/2022">
+      <created>1669896587789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669896587789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Decided 01/12/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decided 01/12/2022" />
   </component>
 </project>
