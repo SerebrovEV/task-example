@@ -20,7 +20,7 @@ public class Task27 {
             System.out.println(tasks.get(i));
             i++;
         }
-// decided
+
         for(String task : tasks.values()){
             System.out.println(task);
         }
